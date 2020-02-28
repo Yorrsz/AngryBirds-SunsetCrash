@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+display: inline-block;
+background-color: coral;
+color: white;
+font-size: 3rem;
+text-decoration: none;
+padding: 20px;
+margin: 20px;
+border-radius: 10px;
+  }
+
+  .btn:hover {
+    background-color: rgb(124, 54, 41);
+  }
+
+  .bird {
+    display: inline-block;
+    background-color: coral;
+    color: white;
+    font-size: 3rem;
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+      }
+    
+      .bird:hover {
+        background-color: rgb(124, 54, 41);
+      }
